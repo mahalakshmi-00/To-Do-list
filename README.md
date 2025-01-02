@@ -21,7 +21,7 @@ This is a simple yet effective To-Do List Application built with HTML, CSS, and 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Kritika30032002/To-Do-List-Application.git
+git clone https://github.com/mahalakshmi-00/To-Do-List-Application.git
 ```
 Open the index.html file in your web browser to start using the application.
 
@@ -62,7 +62,7 @@ Feel free to contribute to this project by creating a pull request. We welcome a
 
 ## Thanks to all Contributors 💪
 
-<a href="https://github.com/Kritika30032002/To-Do-List-Application/graphs/contributors">
+<a href="https://github.com/mahalakshmi-00/To-Do-List-Application/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Kritika30032002/To-Do-List-Application"/>
 </a>  <br>
 Thanks a lot for spending your time. <br>
